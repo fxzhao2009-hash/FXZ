@@ -1,0 +1,17 @@
+# 系统文件
+*.swp
+*.tmp
+.DS_Store
+.idea/
+.vscode/
+
+# 日志文件
+*.log
+logs/
+
+# Python 依赖/编译文件
+venv/
+__pycache__/
+*.pyc
+dist/
+build/
